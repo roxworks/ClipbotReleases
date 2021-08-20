@@ -1,3 +1,3 @@
-Twitch To TikTok
+Clipbot
 
-This is the repository where all new versions of TTTT will be released!
+This is the repository where all new versions of Clipbot will be released!
